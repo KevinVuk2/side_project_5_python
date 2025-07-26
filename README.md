@@ -1,3 +1,4 @@
+![dumbell](gym.png)
 # This is a project analyzing global fitness trends using Google Trends data.
 
 # Global Workout Search Trends Analysis
